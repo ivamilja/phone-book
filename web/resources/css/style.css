@@ -1,0 +1,64 @@
+.navbar {
+    border-bottom: 2px solid lightgray;
+   color: orange;
+}
+.moja{
+    background-color: gray;
+    text-decoration: aqua;
+}
+.fa-phone-volume{
+    color:    ff0000;
+    font-size: 40px;
+}
+.add-button{
+    cursor: pointer;
+}
+.telefon{
+    font-size: 37px;
+    font-weight: bold;
+    color: black;
+}
+.submit{
+    cursor: pointer;
+}
+.prvaSlusalica{
+    background-color: whitesmoke;
+}
+
+.slika{
+    background-image:url("../images/naslovna.jpeg") ;
+    height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.slika2{
+  background-image:url("../images/1.png") ;
+  height: 500px; 
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.slika3{
+    background-image:url("../images/grey.jpg") ;
+    height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.tel{
+    border-style:solid;
+    border-color: ff0000;
+    border-width: 4px;
+    
+}
+.druginavbar{
+    background-color: whitesmoke ;
+}
+.prviNavBar{
+    background-color: whitesmoke;
+}
+
+.slusalica{
+    background-color: yellow;
+}
